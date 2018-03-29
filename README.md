@@ -1,3 +1,7 @@
+#Teste com o VueJS seguindo o post
+
+https://medium.com/@lachlanmiller_52885/structuring-and-testing-a-vue-vuex-app-with-vue-test-utils-80a994b819f
+
 # vue-test-utils-demo
 
 > A Vue.js project
