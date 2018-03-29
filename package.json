@@ -48,7 +48,6 @@
     },
     "moduleNameMapper": {
       "^@/(.*)$": "<rootDir>/src/$1"
-    },
-    "mapCoverage": true
+    }
   }
 }
